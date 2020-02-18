@@ -7,52 +7,85 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Sudhakar Daggubati
+    tagline: Technology Consultant
+    avatar: profile.PNG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: sudhakar@inferorigins.com
+    phone: 
+    website: inferorigins.com #do not add http://
+    linkedin: sudhakardaggubati
+    github: MrDaggubati
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@MRDaggubati'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
-        level: Native
+        level: Fluent
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Dutch
+        level: Elementary
 
     interests:
-      - item: Climbing
+      - item: Technology
         link:
 
-      - item: Snowboarding
+      - item: Politics
         link:
 
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      An Enterprise Information Management Professional with proven expertise in delivering Data & Analytics solutions, services for 
+      complex business and technology challenges in a global environment. 
+      Skilled in stakeholder management with the ability to collaborate across the organization and with senior management.
+      
+      My drive is to support businesses in technology adoption that creates value and gives synergy to core business processes. 
+      A Hands-On Technical lead, Data Solution Architect with experience in creating, coordinating and delivering with teams that are 
+      diverse and distributed. Delivered projects on the latest Digital technologies, Big Data & Analytics, Cloud Computing in both 
+      service and product development environments
+      
+      Over 15+ yrs product experience in Product development, projects, Managed Services, DevOps and consulting assignments. 
+      Last 8+ years in Client facing roles working in The Netherlands and The UK at ASML, NN, ABN AMRO AAG, YBS etc.
+      
+      Worked in Pharma, Insurance, Telecom, Banking, Semi-conductor domains.
+      Familiarity & experience with Virtual machines & Containers and container orchestration using Docker, Docker swarm & Ansible.
+      
+      Data & Analytics Enthusiasts whose primary skill is to deliver business agility through
+            • Data & Analytics solutions around Cloud (AWS ) / IoT / Big Data technologies.
+            • Leading and delivering Data & Analytics solutions; on-premise and cloud
+            • Data Platform migrations and Reengineering
+            • Product & Project management
+            • Team building, coaching and Management
+            • Data Governance and Lineage solutions.
+            
+            
+      Technologies involved; Architectural levels or Hands-On with various levels of expertise.
+
+      * Oracle 10g,11g ,Oracle Apps11i ,Oracle RAC10g,11gR2
+      * Oracle Forms10g,OWB11g R2 ,OBIEE 10g,11g,Oracle,ODA-X4
+      * IBM InfoSphere Information Server
+           IBM InfoSphere DataStage 9x
+           IBM InfoSphere Glossary 9.1
+           IBM Data Architect 9.1
+      * Collibra 4.5.1
+      * Informatica PowerCenter 9,10x
+      * Netezza TwinFin12
+      * PL/SQL, Python, Shell Scripting, Influx DB
+      * Kimball & Data Vault Modeling
+      * Archimate, Viso, BPMN
+      * Apache Hbase, Hadoop, Impala, Sqoop, Hive
+      * Spark PySpark, AWS S3, EMR, RedShift, Dynamo DB , Kafka & Apache Airflow
+      * Application and Infra automation /modernization using Docker & Ansible             
+      
+      
+      ---WIP ----
 education:
     - degree: MSc in Computer Science
       university: University of London
@@ -186,4 +219,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow"> Xiaoying Riley</a>
