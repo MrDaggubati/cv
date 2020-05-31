@@ -9,14 +9,14 @@ sidebar:
     # Profile information
     name: Sudhakar Daggubati
     tagline: Technology Consultant
-    avatar: profile.PNG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: ProfilePicutre.PNG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: sudhakar@inferorigins.com
+    email: 
     phone: 
     website: inferorigins.com #do not add http://
     linkedin: sudhakardaggubati
-    github: MrDaggubatiUUUU
+    github: MrDaggubati
     gitlab:
     bitbucket:
     twitter: '@MRDaggubati'
@@ -32,191 +32,90 @@ sidebar:
         level: Elementary
 
     interests:
-      - item: Technology
+      - item: Science & Technology
         link:
 
-      - item: Politics
+      - item: Defence,Geo Politics...
         link:
 
 
 career-profile:
     title: Career Profile
     summary: |
-      An Enterprise Information Management Professional with proven expertise in delivering Data & Analytics solutions, services for 
-      complex business and technology challenges in a global environment. 
-      Skilled in stakeholder management with the ability to collaborate across the organization and with senior management.
-      
-      My drive is to support businesses in technology adoption that creates value and gives synergy to core business processes. 
-      A Hands-On Technical lead, Data Solution Architect with experience in creating, coordinating and delivering with teams that are 
-      diverse and distributed. Delivered projects on the latest Digital technologies, Big Data & Analytics, Cloud Computing in both 
-      service and product development environments
-      
-      Over 15+ yrs product experience in Product development, projects, Managed Services, DevOps and consulting assignments. 
-      Last 8+ years in Client facing roles working in The Netherlands and The UK at ASML, NN, ABN AMRO AAG, YBS etc.
-      
-      Worked in Pharma, Insurance, Telecom, Banking, Semi-conductor domains.
-      Familiarity & experience with Virtual machines & Containers and container orchestration using Docker, Docker swarm & Ansible.
-      
-      Data & Analytics Enthusiasts whose primary skill is to deliver business agility through
-      - Data & Analytics solutions around Cloud (AWS ) / IoT / Big Data technologies.
-      - Leading and delivering Data & Analytics solutions; on-premise and cloud
-      - Data Platform migrations and Reengineering
-      - Product & Project management
-      - Team building, coaching and Management
-      - Data Governance and Lineage solutions.
-            
-            
-      Technologies involved; Architectural levels or Hands-On with various levels of expertise.
+     
+     An Enterprise Information Management Professional with proven expertise in delivering Cloud, Data & Analytics 
+     solutions, services for complex business and technology challenges.
+     
+     Hands-On Data & Analytics (Architecture/Engineering/Platform) DevOps Engineer and Solution Architect
+     with Product Development and Service Delivery background.
+     
+     Over 15+ yrs of productive experience around Product development, projects, Managed Services, DevOps and 
+     consulting assignments. Last 8+ years, Technical Lead, IT & Business liaison in various consulting and delivery 
+     engagements at ASML, NN, ABN AMRO AAG, YBS UK.
+     
+     Cloud, Data & Analytics Enthusiasts and IT Genaralist whose primary passion is delivering business agility through
+            ▪ Data & Analytics solutions around Cloud (AWS, Azure) / IoT / Big Data technologies.
+            ▪ Architecting and delivering Data & Analytics solutions; Multi Cloud Operating Model
+            ▪ Data Platform solution Engineering, Migrations
+            ▪ Product & Project management
+            ▪ Team building, coaching and Management
+            ▪ Data Governance and Metadata Lineage solutions.
 
-      * Oracle 10g,11g ,Oracle Apps11i ,Oracle RAC10g,11gR2
-      * Oracle Forms10g,OWB11g R2 ,OBIEE 10g,11g,Oracle,ODA-X4
-      * IBM InfoSphere Information Server
-           IBM InfoSphere DataStage 9x
-           IBM InfoSphere Glossary 9.1
-           IBM Data Architect 9.1
-      * Collibra 4.5.1
-      * Informatica PowerCenter 9,10x
-      * Netezza TwinFin12
-      * PL/SQL, Python, Shell Scripting, Influx DB
-      * Kimball & Data Vault Modeling
-      * Archimate, Viso, BPMN
-      * Apache Hbase, Hadoop, Impala, Sqoop, Hive
-      * Spark PySpark, AWS S3, EMR, RedShift, Dynamo DB , Kafka & Apache Airflow
-      * Application and Infra automation /modernization using Docker & Ansible             
+    Technologies Worked, Various levels of expertise; Architectural and Hands-On
+            ▪ Kimball & Data Vault Modeling
+            ▪ ArchiMate, Visio, BPMN
+            ▪ Apache HBase, Hadoop, Impala, Sqoop, Hive
+            ▪ Spark (PySpark), AWS S3, BOTO, AWSCLI, EMR, RedShift, Dynamo DB, Kafka & Apache Airflow
+            ▪ ADLS2, Cosmos DB, Event Hubs, Azure Data Factory, App Services, Azure Databrics,
+            ▪ Azure Synapse analytics, Azure Analysis Services, PowerBI
+            ▪ Terraform, Vault, Consul, Docker & Ansible
+            ▪ Collibra 4.5.1, Informatica AXON, EDC
+            ▪ Oracle 10g,11g, Oracle Apps11i, Oracle RAC10g,11gR2
+            ▪ Oracle Forms10g, OWB11g R2, OBIEE 10g,11g, Oracle, ODA-X4, Oracle Golden Gate 11g
+            ▪ IBM InfoSphere Information Server; DataStage 9x, Glossary 9.1, IBM Data Architect 9.1
+            ▪ Informatica PowerCenter 9,10x, Power Exchange & IDQ
+            ▪ Netezza TwinFin12
+            ▪ PL/SQL, Python, Shell Scripting, Influx DB
+    Trainings & Certifications
+    
+            <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1fb62829-ecbc-490c-8bb5-332d52cd343e" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+            <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="70503f27-1527-4d9b-83bf-68548b9c838d" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+            ▪ AWS Certified Solutions Architect – Associate
+            ▪ Microsoft Certified: Azure Data Engineer Associate
+            ▪ AWS Big Data Specialist
+            ▪ Databricks Unified Analytics Platform - Partner Training Program from Databricks
+            ▪ Informatica AXON – Partner Enablement - Bootcamp
+            ▪ Informatica Enterprise Data Catalog Partner Enablement - Bootcamp
+            ▪ Oracle RAC 10g
+            
+            
+            
       
-      
-      ---WIP ----
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: Bharkathullah University
+      time: 2001 - 2003
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Operations Research, Computer Graphics & DBMS.
           - Bullet point
           - Bullet point
     - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+      university: Nagarjuna University
+      time: 1995 - 1998
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Describe your study here.
           - Bullet point
           - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Data & Analytics
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name:  Service Delivery & Data Solution Architecture
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow"> Xiaoying Riley</a>
