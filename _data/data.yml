@@ -8,21 +8,21 @@ sidebar:
 
     # Profile information
     name: Sudhakar Daggubati
-    tagline: Technology Consultant
+    tagline:  Freelancer; Data, Data Platform Engineering, Solution Architect
     avatar: ProfilePicutre.PNG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: 
     phone: 
-    website: inferorigins.com #do not add http://
-    linkedin: sudhakardaggubati
-    github: MrDaggubati
+    website: 
+    linkedin: 
+    github: 
     gitlab:
     bitbucket:
-    twitter: '@MRDaggubati'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: 
+    stack-overflow: 
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: 
 
     languages:
       - idiom: English
@@ -32,10 +32,10 @@ sidebar:
         level: Elementary
 
     interests:
-      - item: Science & Technology
+      - item: Data Platforms, Data Engineering
         link:
-
-      - item: Defence,Geo Politics...
+      - item: Science, Technology,Defence, 
+              Geopolotics,∞
         link:
 
 
@@ -43,29 +43,26 @@ career-profile:
     title: Career Profile
     summary: |
      
-     An Enterprise Information Management Professional with proven expertise in delivering Cloud, Data & Analytics 
-     solutions, services for complex business and technology challenges.
+     Hands-On Data & Analytics (Architecture/Engineering/Platform) Engineer, Solution Architect
+     Cloud, Data & Analytics Enthusiasts with passion to deliver business agility through
+       
+    • Data & Analytics solutions around Cloud (AWS, Azure), Big Data technologies.
+    • Data Platform solution Engineering, Data Engineering, Platform Migrations
+    • Data Governance, Metadata Lineage
+
+Over 18+ yrs of productive experience around Product development, projects, Managed Services, DevOps, and consulting assignments. Last 8+ years worked in various consulting and delivery engagements at Vattenfall, P&G, ASML, NN, ABN AMRO AAG, YBS UK.
      
-     Hands-On Data & Analytics (Architecture/Engineering/Platform) DevOps Engineer and Solution Architect
-     with Product Development and Service Delivery background.
-     
-     Over 15+ yrs of productive experience around Product development, projects, Managed Services, DevOps and 
-     consulting assignments. Last 8+ years, Technical Lead, IT & Business liaison in various consulting and delivery 
-     engagements at ASML, NN, ABN AMRO AAG, YBS UK.
-     
-     Cloud, Data & Analytics Enthusiasts and IT Genaralist whose primary passion is delivering business agility through
+     Cloud, Data & Analytics Enthusiasts with passion is delivering business agility through
             ▪ Data & Analytics solutions around Cloud (AWS, Azure) / IoT / Big Data technologies.
             ▪ Architecting and delivering Data & Analytics solutions
             ▪ Data Platform solution Engineering, Migrations
-            ▪ Product & Project management
-            ▪ Team building, coaching and Management
             ▪ Data Governance and Metadata Lineage solutions.
 
     Technologies Worked, Various levels of expertise; Architectural and Hands-On
             ▪ Kimball & Data Vault Modeling
             ▪ ArchiMate, Visio, BPMN
             ▪ Apache HBase, Hadoop, Impala, Sqoop, Hive
-            ▪ Spark (PySpark), AWS S3, BOTO, AWSCLI, EMR, RedShift, Dynamo DB, Kafka & Apache Airflow
+            ▪ Spark (PySpark), AWS S3, BOTO, AWSCLI, Kafka & Apache Airflow
             ▪ ADLS2, Cosmos DB, Event Hubs, Azure Data Factory, App Services, Azure Databrics,
             ▪ Azure Synapse analytics, Azure Analysis Services, PowerBI
             ▪ Terraform, Vault, Consul, Docker & Ansible
@@ -89,7 +86,28 @@ career-profile:
             ▪ Oracle RAC 10g
             
             
-            
+Experiences:
+
+    - job-title: A
+      time:
+      company: TEST
+      details: |
+
+    - job-title: B
+      time:
+      company:
+      details: |
+      
+    - job-title: C
+      time:
+      company:
+      details: |
+
+    - job-title: D
+      time:
+      company:
+      details: |
+
       
 education:
     - degree: MSc in Computer Science
@@ -111,11 +129,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Data & Analytics
+      - name: Data Engineering & Data Platform Engineering
         level: 85%
 
-      - name:  Service Delivery & Data Solution Architecture
-        level: 90%
+      - name:  Solution Architecture
+        level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow"> Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://www.inferorigins.com" target="_blank" rel="nofollow"> MrDaggubati</a>
